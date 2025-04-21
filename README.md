@@ -1,2 +1,3 @@
 # DataMigration
-Datamigration -- low cost
+Goal :
+Migrate All Data from RDS to TimescaleDB/PostGre SQL server
